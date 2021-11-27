@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CitrusDemon
+- 👀 I’m interested in mobile game development
+- 🌱 I’m currently learning C# 
+- 💞️ I’m looking to collaborate on anything that will help me gain experience. 
+- 📫 How to reach me citrusdemon10@gmail.com
